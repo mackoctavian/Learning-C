@@ -5,4 +5,5 @@
  *       Used in the project
  */
 int sumOfNumbers();
+int simpleCalculator();
 #endif
