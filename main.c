@@ -9,5 +9,6 @@
 int main()
 {
     sumOfNumbers();
+    simpleCalculator();
     return 0;
 }
